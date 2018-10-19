@@ -1,5 +1,5 @@
 {
-  "name": "@seandelaney/react-cookie-consent",
+  "name": "react-cookie-bar",
   "author": {
     "name": "Sean Delaney",
     "email": "hello@delaneymethod.com"
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/delaneymethod/react-cookie-consent.git"
+    "url": "git+https://github.com/delaneymethod/react-cookie-bar.git"
   },
   "keywords": [
     "react",
@@ -31,9 +31,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/delaneymethod/react-cookie-consent/issues"
+    "url": "https://github.com/delaneymethod/react-cookie-bar/issues"
   },
-  "homepage": "https://github.com/delaneymethod/react-cookie-consent#readme",
+  "homepage": "https://github.com/delaneymethod/react-cookie-bar#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.26.3",
