@@ -1,8 +1,8 @@
 {
   "name": "react-cookie-consent",
   "author": {
-    "name": "Rick van Lieshout",
-    "email": "info@rickvanlieshout.com"
+    "name": "Sean Delaney",
+    "email": "hello@delaneymethod.com"
   },
   "version": "1.8.1",
   "description": "A small, simple and customizable cookie consent bar for use in React applications.",
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mastermindzh/react-cookie-consent.git"
+    "url": "git+https://github.com/delaneymethod/react-cookie-consent.git"
   },
   "keywords": [
     "react",
@@ -31,9 +31,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mastermindzh/react-cookie-consent/issues"
+    "url": "https://github.com/delaneymethod/react-cookie-consent/issues"
   },
-  "homepage": "https://github.com/Mastermindzh/react-cookie-consent#readme",
+  "homepage": "https://github.com/delaneymethod/react-cookie-consent#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.26.3",
